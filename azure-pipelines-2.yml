@@ -14,5 +14,4 @@ steps:
   inputs:
     gradleWrapperFile: 'gradlew'  # Path to your Gradle wrapper
     tasks: 'build'  # Replace with the tasks you want to run
-    options: '-Xmx3072m' 
-    
+
